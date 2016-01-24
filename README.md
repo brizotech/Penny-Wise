@@ -1,12 +1,25 @@
-# scraper
-Scraper in PHP that using cURL. Scraps flipkart and amazon and can export as JSON or XML
+INTRODUCTION
+---------------------
+The website pennywise.com is a online shopping comparison website or an online shopping guide, which in its beta-state compares the result
+of two popular Indian eCommerce sites namely, Flipkart and Amazon.in. 
 
-This is a PHP script to scrap data from flipkart and amazon. Scraping data is not legal or advised. This is just for
-educational purpose.
 
-Clone the repository in your html folder if you are using apache. If you are using XAMPP, clone it in your htdocs directory.
+REQUIREMENTS
+----------------------
+WAMPSERVER
+PHP 5.5.12
 
-Now, run your local server and open http://localhost/scraper/display.php in your browser. You will see a search bar,
-search for items you want to fetch like "mobile".
+The website is not cross platform.
 
-You can download JSON and XML by clicking on the buttons provided.
+
+PLEASE NOTE: The website didnt perform well when executed on xampp server during the testing phases. So please use WAMP server to use the product.
+
+
+Maintainers
+----------------
+Jithin Varghese
+Shameem Ali M
+Akhil Thomas,
+Paul Eldo,
+Allen Jose Pius.
+
