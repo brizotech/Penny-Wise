@@ -1,0 +1,156 @@
+.header {
+background-color:#BCBBB9
+font-size: 18px;
+font-weight: bold;
+padding: 34px 30px;
+font-family: sans-serif;
+border-color: #0066A2;
+}
+.site img{
+  width: :50px;
+  height: 50px;
+  float: left;
+}
+.header img {
+  float: center;
+  width: 400px;
+  height: 400px;
+  background: #BCBBB9;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: -450px;
+}
+.product
+{
+  
+  padding: 10px;
+  margin: 5px;
+  width: 250px;
+}
+
+.price
+{
+  
+  width: 70px;
+  padding: 2px;
+  margin-top: 7px;
+  margin-bottom: 2px;
+  color: red;
+}
+.category
+{
+  
+  width: 70px;
+  padding: 2px;
+  margin-top: 7px;
+  margin-bottom: 2px;
+  color: #0066A2;;
+}
+.rating
+ {
+
+color: #FF8C00;
+font-weight: bold;
+}
+.main_div
+{
+
+    width: 350px;
+    padding-bottom: 10px; 
+    padding-top: 10px; 
+    font-weight: bold;
+    font-family: 'Shift', sans-serif;
+}
+
+.button
+{
+  cursor: pointer;
+}
+
+img
+{
+  padding-bottom: 5px;
+}
+
+.search
+{
+  width: 500px;
+  padding: 2px;
+  height: 35px;
+  font-size: 15px;
+  margin-top: 2px;
+
+}
+
+
+
+.specskey
+{
+  width: 200px;
+  padding: 2px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-right: 50px;
+  color: #7A2187;
+}
+
+.specsval
+{
+  width: 200px;
+  padding: 2px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-right: 50px;
+  color: black;
+}
+
+.spechead
+{
+  border: solid 2px black;
+  width: 240px;
+  padding: 2px;
+  margin-top: 7px;
+  margin-bottom: 2px;
+  color: green;
+  font-size: 18px;
+  font-family: Courier New;
+}
+
+
+
+.search_btn {
+
+  border: 0px;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 18px;
+  background: #3498db;
+  padding: 4px 10px 4px 10px;
+  text-decoration: none;
+  height: 35px;
+  width: 100px;
+}
+
+.search_btn:hover {
+  
+  background: #3da6e3;
+  background-image: -webkit-linear-gradient(top, #3da6e3, #347ca8);
+  background-image: -moz-linear-gradient(top, #3da6e3, #347ca8);
+  background-image: -ms-linear-gradient(top, #3da6e3, #347ca8);
+  background-image: -o-linear-gradient(top, #3da6e3, #347ca8);
+  background-image: linear-gradient(to bottom, #3da6e3, #347ca8);
+  text-decoration: none;
+
+}
